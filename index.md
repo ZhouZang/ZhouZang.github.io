@@ -42,7 +42,10 @@ Syntax highlighted code block
   • Focus1: Application of the deep learning models and tree-based machine learning models on atmospheric remote sensing of retrieving and analyzing near surface pollution (PM2.5, O3) and aerosol component (fine mode fraction).
   • Focus2: Improving the accuracy and interpretability of deep learning models for satellite-based aerosol retrievals.
 
-# Summer Field Campaign (06/2019 - 09/2019 in Nanjiao, Beijing; 01/2020 in Guangzhou, Guangdong; 03/2020- 09/2020 in Baoshan, Shanghai):
+# Field Campaigns
+# 06/2019 - 09/2019 in Nanjiao, Beijing; 
+# 01/2020 in Guangzhou, Guangdong; 
+# 03/2020 - 09/2020 in Baoshan, Shanghai:
   • College of Global Change and Earth System Science (GCESS), Beijing Normal University
   • Supervisor: Dr. Xing Yan and Prof. Zhanqing Li
   • Focus: In-situ observations for aerosol components and their chemical and physical characteristics in metropolitans (Beijing, Shanghai and Guangzhou) of China using 3-D Lidar.

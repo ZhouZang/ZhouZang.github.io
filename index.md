@@ -11,7 +11,52 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+## Personal Information
+  • Zhou Zang, graduating student
+  • College of Global Change and Earth System Science (GCESS), Beijing Normal University
+  • Address: Beijing, China
+  • Email: 201921490029@mail.bnu.edu.cn
+  • ResearchGate: https://www.researchgate.net/profile/Zhou-Zang
+  
+## Education and qualifications
+# College of Global Change and Earth System Science (GCESS), Beijing Normal University (Member University of Project 985)
+  • 09/2019 – 06/2022: M.Sc. in Global Environment Change
+  • Dissertation proposal: Improving the estimation of global long-term fine mode fraction by combing physical and deep learning methods
+  • Supervisor: Dr. Xing Yan
+# School of Atmospheric Sciences, Lanzhou University (Member University of Project 985)
+  • 06/2019 – 09/2015: B.Sc. in Atmospheric Science
+  • Core courses: Atmospheric Physicals, Atmospheric Chemistry, Satellite Radiation and Remote Sensing, Satellite Meteorology, Physical Climatology, Synoptic Meteorology, Dynamic Meteorology, FORTRAN language and Application
+  • Dissertation: The impact of PM2.5 concentrations on infectious diseases in China (in Chinese), (selected as Excellent Thesis)
+  • Supervisor: Prof. Siyu Chen
+  
+## Research Interest
+  • Particulate Matter (PM) remote sensing
+  • surface O3 remote sensing
+  • fine mode fraction and fine/coarse mode aerosol optical depth
+  • interpretable deep learning
+ 
+## Research Experience
+# Research Assistant (09/2019 - to date)
+  • College of Global Change and Earth System Science (GCESS), Beijing Normal University
+  • Supervisor: Dr. Xing Yan
+  • Focus1: Application of the deep learning models and tree-based machine learning models on atmospheric remote sensing of retrieving and analyzing near surface pollution (PM2.5, O3) and aerosol component (fine mode fraction).
+  • Focus2: Improving the accuracy and interpretability of deep learning models for satellite-based aerosol retrievals.
+
+# Summer Field Campaign (06/2019 - 09/2019 in Nanjiao, Beijing; 01/2020 in Guangzhou, Guangdong; 03/2020- 09/2020 in Baoshan, Shanghai):
+  • College of Global Change and Earth System Science (GCESS), Beijing Normal University
+  • Supervisor: Dr. Xing Yan and Prof. Zhanqing Li
+  • Focus: In-situ observations for aerosol components and their chemical and physical characteristics in metropolitans (Beijing, Shanghai and Guangzhou) of China using 3-D Lidar.
+
+
+
+
+  
+    
+  
+
+  
+  
+  
 ## Header 2
 ### Header 3
 

@@ -36,7 +36,7 @@
 - 03/2020 - 09/2020 in Baoshan, Shanghai
 - College of Global Change and Earth System Science (GCESS), Beijing Normal University
 - Supervisor: Dr. Xing Yan and Prof. Zhanqing Li
-- Focus: In-situ observations for aerosol components and their chemical and physical characteristics in metropolitans (Beijing, Shanghai and Guangzhou) of China using 3-D Lidar.
+- Focus: In-situ observations for aerosol components and their chemical and physical characteristics in metropolitans (Beijing, Shanghai and Guangzhou) of China using 3-D Lidar
 
 ## Publications
 - Yan, X., Liang, C., Jiang, Y., Luo, N., Zang, Z., Li, Z., 2020. A Deep Learning Approach to Improve the Retrieval of Temperature and Humidity Profiles From a Ground-Based Microwave Radiometer. IEEE Trans. Geosci. Remote Sens. 58, 8427–8437.
